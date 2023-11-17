@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elenamuia
-- 👀 I’m interested in IT, Artificial Intelligence, Robotics, Cognitive Science, Neurosciences
-- 🌱 I’m currently learning Applied Computer Science and Artificial Intelligence
-- 📫 How to reach me elenamuai2001@gmail.com
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, BCI
+- 🌱 I’m currently studying at Sapienza in Artificial Intelligence & Robotics
+- 📫 How to reach me elenamuia2001@gmail.com
 
 <!---
 elenamuia/elenamuia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
